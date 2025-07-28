@@ -1,4 +1,4 @@
-@FilipFirstTests
+@FilipFirstTestsSuite
 Feature: Filip Tests with Cucumber
 
   Background:
