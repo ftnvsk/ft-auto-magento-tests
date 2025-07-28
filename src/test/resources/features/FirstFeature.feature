@@ -56,4 +56,4 @@ Feature: Filip Tests with Cucumber
     Then A confirmation message should be displayed
     Examples:
       | Size Option | Color Option |
-      | XS          | Orange       |
+      | M           | Purple       |
